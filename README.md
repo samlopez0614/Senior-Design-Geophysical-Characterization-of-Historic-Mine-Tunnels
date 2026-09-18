@@ -1,1 +1,1 @@
-# Senior-Design-Geophysical-Characterization-of-The-Historic-Onyx-Mine
+# Senior Design - Geophysical Characterization of The Historic Onyx Mine
